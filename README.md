@@ -1,5 +1,5 @@
 # Searching Twitter DataSet
-##Prompt and Source Code Given In Data Sreuctures Courses at Columbia University 
+Prompt and Source Code Given In Data Structures Courses at Columbia University 
 
 The file `coachella_tweets.csv` contains 3882 tweets discussing the Coachella 2015 music festival. This dataset was originally createdfor the purpose of training and testing sentiment analysis models, identifying if a users view of the festival is positive or negative. 
 
