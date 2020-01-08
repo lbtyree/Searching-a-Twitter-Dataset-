@@ -1,6 +1,8 @@
 # Searching Twitter DataSet
 Prompt and Source Code Given In Data Structures Courses at Columbia University 
 
+File TweetDB.java contains my original code. 
+
 The file `coachella_tweets.csv` contains 3882 tweets discussing the Coachella 2015 music festival. This dataset was originally createdfor the purpose of training and testing sentiment analysis models, identifying if a users view of the festival is positive or negative. 
 
 The goal of this problem is to read the complete data into memory and index it using different maps. Specifically, you will index the tweets using
